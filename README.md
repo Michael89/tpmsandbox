@@ -12,6 +12,7 @@ Useful resources:
  - FAPI specs https://trustedcomputinggroup.org/wp-content/uploads/TSS_FAPI_v0p94_r09_pub.pdf
  - Brief presentation on TPM https://www.youtube.com/watch?v=XwaSyHJIos8 and slides https://elinux.org/images/d/d9/Using-the-tpm-its-not-rocket-science-anymore_slides_ELCE2020.pdf
  - Very useful interactive tutorial https://google.github.io/tpm-js/
+ - Book about tpm https://link.springer.com/content/pdf/10.1007/978-1-4302-6584-9.pdf
 
 Software implementation of TPM emulator (best to use in order to not mess up your hardware):
 https://github.com/stefanberger/swtpm
